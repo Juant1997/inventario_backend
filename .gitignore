@@ -19,3 +19,5 @@ build/
 coverage/
 logs/
 *.log
+package-lock.json
+yarn.lock
